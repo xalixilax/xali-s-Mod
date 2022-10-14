@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "untitledmod",
-  "version": "0.0.1-1.19",
+  "version": "0.0.1-1.19.2",
 
   "name": "Untitled Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
@@ -30,7 +30,7 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.14.6",
+    "fabricloader": ">=0.14.9",
     "fabric": "*",
     "minecraft": "~1.19",
     "java": ">=17"

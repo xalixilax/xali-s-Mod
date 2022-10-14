@@ -1,0 +1,11 @@
+{
+  "type": "untitledmod:gem_infusing",
+  "ingredients": [
+    {
+      "item": "untitledmod:raw_tanzanite"
+    }
+  ],
+  "output": {
+    "item": "untitledmod:tanzanite"
+  }
+}

@@ -1,6 +1,46 @@
 {
   "item.untitledmod.raw_tanzanite": "Raw Tanzanite",
   "item.untitledmod.tanzanite": "Tanzanite",
+  "item.untitledmod.eight_ball": "Eight Ball",
+  "item.untitledmod.eggplant": "Eggplant",
+  "item.untitledmod.eggplant_seeds": "Eggplant Seeds",
+  "item.untitledmod.soap_water_bucket": "Soap Water Bucket",
+  "item.untitledmod.kaupensword": "Kaupen Sword",
+  "item.untitledmod.chomper_spawn_egg": "Chomper Spawn Egg",
+  "item.untitledmod.tanzanite_pickaxe": "Tanzanite Pickaxe",
 
-  "itemGroup.untitledmod.tanzanite": "Tanzanite Tab"
+  "block.untitledmod.tanzanite_block": "Block of Tanzanite",
+  "block.untitledmod.tanzanite_ore": "Tanzanite Ore",
+  "block.untitledmod.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
+  "block.untitledmod.endstone_tanzanite_ore": "Endstone Tanzanite Ore",
+  "block.untitledmod.netherrack_tanzanite_ore": "Netherrack Tanzanite Ore",
+  "block.untitledmod.jumpy_block": "Jumpy Block",
+  "block.untitledmod.tanzanite_lamp": "Tanzanite Lamp",
+  "block.untitledmod.eggplant_crop": "Eggplant Crop",
+  "block.untitledmod.gem_infusing_station": "Gem Infusing Station",
+  "block.untitledmod.soap_water": "Soap Water",
+
+  "block.untitledmod.dogwood_log": "Dogwood Log",
+  "block.untitledmod.dogwood_wood": "Dogwood Wood",
+  "block.untitledmod.stripped_dogwood_log": "Stripped Dogwood Log",
+  "block.untitledmod.stripped_dogwood_wood": "Stripped Dogwood Wood",
+  "block.untitledmod.dogwood_planks": "Dogwood Planks",
+  "block.untitledmod.dogwood_leaves": "Dogwood Leaves",
+  "block.untitledmod.dogwood_sapling": "Dogwood Sapling",
+
+  "block.untitledmod.buttercups": "Buttercups",
+  "block.untitledmod.potted_buttercups": "Potted Buttercups",
+
+  "itemGroup.untitledmod.tanzanite": "Tanzanite Tutorial Tab",
+
+  "entity.minecraft.villager.jumpmaster": "Jump Master",
+
+  "key.category.untitledmod.tutorial": "Tutorial Mod",
+  "key.untitledmod.drink_water": "Drink Water Key",
+
+  "message.untitledmod.drank_water": "Drank Water!",
+  "message.untitledmod.no_water": "No Water around!",
+
+  "untitledmod.tooltip.liquid.amount.with.capacity": "%s / %s mB",
+  "untitledmod.tooltip.liquid.amount": "%s mB"
 }
